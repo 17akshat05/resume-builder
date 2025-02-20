@@ -61,9 +61,9 @@ resume_builder/
 
 Author
 
-👤 Ankit (ankit1068)
+👤 Akshat Jain
 
-GitHub: ankit1068
+GitHub: 17akshat05
 
 ## License
 This project is licensed under the MIT License.
