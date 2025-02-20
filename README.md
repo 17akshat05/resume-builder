@@ -69,4 +69,4 @@ GitHub: 17akshat05
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries, reach out to "ankitrajj1068@gmail.com" or create an issue on the repository.
+For any queries, reach out to "17akshat05@gmail.com" or create an issue on the repository.
